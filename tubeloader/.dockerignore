@@ -1,0 +1,9 @@
+**
+!Dockerfile
+!requirements.txt
+!download.py
+!web_app.py
+!container_check.py
+!web/
+!web/**
+
